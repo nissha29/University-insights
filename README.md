@@ -80,7 +80,7 @@ Frontend:
 
 ## 🌐 Deployment
 The site is deployed on Netlify with automatic deployments configured from the main branch.
-Live Demo: https://mbbs-abroad.netlify.app
+Live Demo: https://university-insights.netlify.app/
 ## 👥 Contributing
 
 1. Fork the repository
